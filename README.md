@@ -51,6 +51,4 @@ The game is created using the Pygame library.
 
 Inspiration from classic space shooter games.
 
-the code is derived from the book "PYTHON CRASH COURSE" by ERIC MATTHES.
-
-I have done certain modifications in the project and added some extra functionalities in the game to make it more creative.
+I am grateful to having the book "PYTHON CRASH COURSE" by ERIC MATTHES which helped me doing this project from scratch till end.
